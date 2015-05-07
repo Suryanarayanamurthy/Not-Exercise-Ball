@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\setBoundry.cs" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="36" Column="68" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="33" Column="43" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\MouseControler.cs" Line="16" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
